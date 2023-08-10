@@ -1,5 +1,6 @@
 # DBMS-Fastag-open-ended-Project
 ## Problem Statement:
+Implementation of database management for Fastag system that automatically stores Vehicle details, collects tolls from customer bank accounts and deposits in official toll plaza accounts.
 
 ## Entity Description:
 
