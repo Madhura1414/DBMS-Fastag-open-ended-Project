@@ -2,6 +2,12 @@
 ## Problem Statement:
 Implementation of database management for Fastag system that automatically stores Vehicle details, collects tolls from customer bank accounts and deposits in official toll plaza accounts.
 
+## ER-Diagram:
+![fastag_ER-Page-1](https://github.com/Madhura1414/DBMS-Fastag-open-ended-Project/assets/84361102/bc12ac4e-8060-4676-afb8-8312329b7ddd)
+
+## Relational Schema:
+![fatsag_relation_schema](https://github.com/Madhura1414/DBMS-Fastag-open-ended-Project/assets/84361102/75281d67-a1df-44e1-be37-a441610ccd1d)
+
 ## Entity Description:
 
 Toll_plaza consists details of all the active plazas of the country. unique plaza code, plaza name, type, city, state. Fastag table classifies vehicles into unique colors.
